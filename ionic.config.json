@@ -1,0 +1,7 @@
+{
+  "name": "vellaApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
