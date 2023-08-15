@@ -10,24 +10,26 @@
    
 #BASIC USAGE OF THE APP
 1. Once the url is loaded in the web browser, it displays all available products in vella database
-2. You can then select the product you wish to buy by clicking on that product
-3. On click on the product opens a new page, which displays all neccessary information about that particular product, which includes the product name, image, quatity, and price
-4. A button that says "Add To Cart" is at the bottom of the ProductView page, this button add the product your cart collections
-5. You can then click on the back button on the top left corner to continue shopping.
-6. A cart icon is located at the top left corner which display the number of items present in the your cart collections.
-7. On click on the cart icon displays a Cart page, which reveals the Total price to be paid, and also has "Remove button" to remove a particular product from your checkout products,
-8. it has the "+ button" and "- button" to increase and decrease the quantity of a particular product respectively.
-9. Note that, by the default quantity of all product is 1, which cannot be reduced lower than 1, if need be to reduce the quantity of the product below 1, just remove that product from your cart
-10. Checkout button can then be clicked once your satisfy with the quantity and quality of all your selected products including your total payout price
-11. On click of checkout button opens a page to input your Name, address, and email.
-12. Once all this information is entered correctly, you can then click on the continue button.
-13. This displays a modal revealing your name, address, email, and all your selected product(s) together with their quantity, price,image, and name.
-14. Total amount to be paid is also displayed, so that you can be sure before finally checking out.
-15. If you're satify with all this informations, you can then click on the confirm button on the top right corner of the modal, which then displays a successful checkout screen,
-16. Click on done to clear your carts and also go back to home to buy more products, OR.
-17. If you want to change some informations before checking out, you can click on the cancel button on the top left corner of the modal to change neccessary informatiions.
-18. NOTE THAT: REDUCE THE RESOLUTION TO A MOBILE DEVICE SCREEN OR LOAD THIS APP ON A MOBILE DEVICE BROWSER TO REALLY FEEL THIS APPLICATION.
-19. THANKS
+2. The products can be filter by their name with the search bar at the top of the home page.
+3. The products can also be filtered by their categories, with the help of the select component below the search bar.
+4. You can then select the product you wish to buy by clicking on that product
+5. On click on the product opens a new page, which displays all neccessary information about that particular product, which includes the product name, image, quatity, and price
+6. A button that says "Add To Cart" is at the bottom of the ProductView page, this button add the product your cart collections
+7. You can then click on the back button on the top left corner to continue shopping.
+8. A cart icon is located at the top left corner which display the number of items present in the your cart collections.
+9. On click on the cart icon displays a Cart page, which reveals the Total price to be paid, and also has "Remove button" to remove a particular product from your checkout products,
+10. it has the "+ button" and "- button" to increase and decrease the quantity of a particular product respectively.
+11. Note that, by the default quantity of all product is 1, which cannot be reduced lower than 1, if need be to reduce the quantity of the product below 1, just remove that product from your cart
+12. Checkout button can then be clicked once your satisfy with the quantity and quality of all your selected products including your total payout price
+13. On click of checkout button opens a page to input your Name, address, and email.
+14. Once all this information is entered correctly, you can then click on the continue button.
+15. This displays a modal revealing your name, address, email, and all your selected product(s) together with their quantity, price,image, and name.
+16. Total amount to be paid is also displayed, so that you can be sure before finally checking out.
+17. If you're satify with all this informations, you can then click on the confirm button on the top right corner of the modal, which then displays a successful checkout screen,
+18. Click on done to clear your carts and also go back to home to buy more products, OR.
+19. If you want to change some informations before checking out, you can click on the cancel button on the top left corner of the modal to change neccessary informatiions.
+20. NOTE THAT: REDUCE THE RESOLUTION TO A MOBILE DEVICE SCREEN OR LOAD THIS APP ON A MOBILE DEVICE BROWSER TO REALLY FEEL THIS APPLICATION.
+21. THANKS
 
 
  #CHALLENGES
