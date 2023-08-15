@@ -34,6 +34,7 @@
 
  #CHALLENGES
 1. The only challenge faced is that the ui is not provided for this assessment, as it would have made the work easier.
+2. Not a great UI for UI for large screens, would have come up with a better UI for large screen resolutions.
 
    
 #IMPROVEMENTS
